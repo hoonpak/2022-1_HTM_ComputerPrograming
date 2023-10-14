@@ -1,5 +1,5 @@
 # 2022-1_HTM_ComputerPrograming
-2022학년도 1학기 HTM Computer Programing 수업에서 활용한 코드입니다.
+2022년 1학기 HTM Computer Programing 수업에서 활용한 코드입니다.
 
 ## 과제 3
 
